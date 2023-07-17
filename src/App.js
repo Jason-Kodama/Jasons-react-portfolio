@@ -4,9 +4,13 @@ import Nav from './components/Nav';
 import Page from './components/Page';
 import Footer from './components/Footer'
 
+
 function App() {
   const [pages] = useState([
     {
+      name:'home'
+    }
+    ,{
       name: 'about me'
     },
     {
@@ -26,11 +30,11 @@ function App() {
     <div className="App">
       <Header>
         <Nav
-          pages={pages}
-          setCurrentPage={setCurrentPage}
-          currentPage={currentPage}
-          ></Nav>
-      </Header>
+            pages={pages}
+            setCurrentPage={setCurrentPage}
+            currentPage={currentPage}
+        ></Nav>
+        </Header>
       <main>
         <Page currentPage={currentPage}></Page>
       </main>

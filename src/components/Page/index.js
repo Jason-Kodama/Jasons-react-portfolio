@@ -4,6 +4,7 @@ import About from '../About';
 import Portfolio from '../Portfolio';
 import Contact from '../Contact';
 import Resume from '../Resume';
+import Home from '../Home'
 
 function Page({ currentPage }) {
     const renderPage = () => {
@@ -17,13 +18,13 @@ function Page({ currentPage }) {
             case 'resume':
                 return <Resume />;
             default:
-                return <About />;
+                return <Home />;
         }
     };
 
     return (
         <section>
-            <h2>{currentPage.name}</h2>
+            {/* <h2>{currentPage.name}</h2> */}
             <PageContent>{renderPage()}</PageContent>
         </section>
     );

@@ -13,7 +13,7 @@ function Nav(props) {
     }, [currentPage]);
 
     return (
-        <nav>
+        <nav className='nav'>
             <ul className='flex-row'>
                 {pages.map((Page) => (
                     <li
