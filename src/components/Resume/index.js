@@ -3,10 +3,7 @@ import React from 'react';
 function Resume() {
     return (
         <section className='my-5'>
-            <div className='my-2'>
-                <p>
-                    Download my <a href="https://www.linkedin.com/in/jason-kodama-6aa25595/">resume</a>
-                </p>
+            <div className='my-2 resume'>
                 <h3>Front-end Proficiencies</h3>
                 <ul className='skills'>
                     <li>HTML</li>
@@ -27,6 +24,9 @@ function Resume() {
                     <li>REST</li>
                     <li>GraphQL</li>
                 </ul>
+                <p>
+                    Download my <a href="https://www.linkedin.com/in/jason-kodama-6aa25595/">resume</a>
+                </p>
             </div>
         </section>
     );

@@ -6,6 +6,11 @@ function Project({ project }) {
 
     return (
         <div className='project' key={name}>
+            <img
+                src={require(`../../assets/projects/${name}.jpg`)}
+                alt={removeHyphensAndCapitalize(name)}
+                className="project"
+            />
             <div className='project-text'>
                 <a href={link}>{removeHyphensAndCapitalize(name)}</a>{' '}
                 <a href={repo}>

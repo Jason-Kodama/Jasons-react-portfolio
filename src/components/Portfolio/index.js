@@ -23,7 +23,7 @@ function Portfolio() {
           repo: "https://github.com/Jason-Kodama/Jasons-express-notetaker"
         },
         {
-          name: 'Chat Campt',
+          name: 'Chat Camp',
           description: 'Node/Express/mySql',
           link: "https://chat-camp.herokuapp.com/",
           repo: "https://github.com/Jason-Kodama/Portfolio-02"
@@ -37,14 +37,16 @@ function Portfolio() {
       ]);
 
       return (
-        <div>
+        <div className='portfolio'>
             <div className='flex-row'>
+              <div className='card'>
                 {projects.map((project, idx) => (
                     <Project
                         project={project}
                         key={"project" + idx}
                     />
                 ))}
+              </div>
             </div>
         </div>
       );
