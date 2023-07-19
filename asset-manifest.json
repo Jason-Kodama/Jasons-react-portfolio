@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jasons-portfolio/static/css/main.e8674b81.css",
-    "main.js": "/jasons-portfolio/static/js/main.92746c05.js",
-    "static/js/787.d931acd0.chunk.js": "/jasons-portfolio/static/js/787.d931acd0.chunk.js",
-    "static/media/nobu.JPG": "/jasons-portfolio/static/media/nobu.a98c6782fe1b5128de70.JPG",
-    "static/media/Boss-Fight.jpg": "/jasons-portfolio/static/media/Boss-Fight.8426b063e9040f04b353.jpg",
-    "static/media/Chat Camp.jpg": "/jasons-portfolio/static/media/Chat Camp.e1fd305e49d274be17f7.jpg",
-    "static/media/noSql-api.jpg": "/jasons-portfolio/static/media/noSql-api.4ce5993a9b33650c41ce.jpg",
-    "static/media/note-taker.jpg": "/jasons-portfolio/static/media/note-taker.b312e507be78bda1c635.jpg",
-    "static/media/eclipse.avif": "/jasons-portfolio/static/media/eclipse.da282654382a9357265f.avif",
-    "index.html": "/jasons-portfolio/index.html",
-    "main.e8674b81.css.map": "/jasons-portfolio/static/css/main.e8674b81.css.map",
-    "main.92746c05.js.map": "/jasons-portfolio/static/js/main.92746c05.js.map",
-    "787.d931acd0.chunk.js.map": "/jasons-portfolio/static/js/787.d931acd0.chunk.js.map"
+    "main.css": "/Jasons-react-portfolio/static/css/main.e8674b81.css",
+    "main.js": "/Jasons-react-portfolio/static/js/main.638220f2.js",
+    "static/js/787.4553c5dd.chunk.js": "/Jasons-react-portfolio/static/js/787.4553c5dd.chunk.js",
+    "static/media/nobu.JPG": "/Jasons-react-portfolio/static/media/nobu.a98c6782fe1b5128de70.JPG",
+    "static/media/Boss-Fight.jpg": "/Jasons-react-portfolio/static/media/Boss-Fight.8426b063e9040f04b353.jpg",
+    "static/media/Chat Camp.jpg": "/Jasons-react-portfolio/static/media/Chat Camp.e1fd305e49d274be17f7.jpg",
+    "static/media/noSql-api.jpg": "/Jasons-react-portfolio/static/media/noSql-api.4ce5993a9b33650c41ce.jpg",
+    "static/media/note-taker.jpg": "/Jasons-react-portfolio/static/media/note-taker.b312e507be78bda1c635.jpg",
+    "static/media/eclipse.avif": "/Jasons-react-portfolio/static/media/eclipse.da282654382a9357265f.avif",
+    "index.html": "/Jasons-react-portfolio/index.html",
+    "main.e8674b81.css.map": "/Jasons-react-portfolio/static/css/main.e8674b81.css.map",
+    "main.638220f2.js.map": "/Jasons-react-portfolio/static/js/main.638220f2.js.map",
+    "787.4553c5dd.chunk.js.map": "/Jasons-react-portfolio/static/js/787.4553c5dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8674b81.css",
-    "static/js/main.92746c05.js"
+    "static/js/main.638220f2.js"
   ]
 }
