@@ -41,6 +41,7 @@ function Contact() {
 
     return (
         <section>
+            <h4 className='footer-h4'>Jasonkodama@gmail.com</h4>
             <form id='contact-form' onSubmit={handleSubmit}>
                 <div>
                     <label htmlFor='name'>Name:</label>
@@ -74,7 +75,8 @@ function Contact() {
                         <p className='error-text'>{errorMessage}</p>
                     </div>
                 )}
-                <button type='submit'>Submit</button>
+                {/* <button type='submit'>Submit</button> */}
+                <a href="mailto:jasonkodama@gmail.com">Click to Send an Email</a>
             </form>
         </section>
     );

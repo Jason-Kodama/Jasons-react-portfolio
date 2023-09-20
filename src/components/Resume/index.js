@@ -25,7 +25,7 @@ function Resume() {
                     <li>GraphQL</li>
                 </ul>
                 <p>
-                    Download my <a href="https://www.linkedin.com/in/kentaro-kodama-6aa25595/">resume</a>
+                    Download my <a href="https://docs.google.com/document/d/1XEaqtNnKLyFQqhnSWYnnGAxeJ0t0jleR/edit?usp=sharing&ouid=108150057600392130041&rtpof=true&sd=true">resume</a>
                 </p>
             </div>
         </section>

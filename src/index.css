@@ -177,7 +177,7 @@ main {
 .resume li {
   color:#ECE3D5;
   list-style-type: none;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .resume p {
@@ -205,8 +205,10 @@ footer i{
   max-height: 100%;
   margin: 5px;
 }
-
-
-
-
-
+.footer-h4{
+  text-align: center;
+  color:#ECE3D5;
+  position:absolute;
+  top: 35%;
+  left: 40%
+}
