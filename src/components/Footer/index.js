@@ -8,7 +8,7 @@ function Footer() {
         },
         {
             name: "fab fa-linkedin",
-            link: "https://www.linkedin.com/in/jason-kodama-6aa25595/"
+            link: "https://www.linkedin.com/in/kentaro-kodama-6aa25595/"
         }
     ]
 
