@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Jasons-react-portfolio/static/css/main.e8674b81.css",
-    "main.js": "/Jasons-react-portfolio/static/js/main.638220f2.js",
+    "main.css": "/Jasons-react-portfolio/static/css/main.cabeb043.css",
+    "main.js": "/Jasons-react-portfolio/static/js/main.466eb52e.js",
     "static/js/787.4553c5dd.chunk.js": "/Jasons-react-portfolio/static/js/787.4553c5dd.chunk.js",
     "static/media/nobu.JPG": "/Jasons-react-portfolio/static/media/nobu.a98c6782fe1b5128de70.JPG",
     "static/media/Boss-Fight.jpg": "/Jasons-react-portfolio/static/media/Boss-Fight.8426b063e9040f04b353.jpg",
@@ -10,12 +10,12 @@
     "static/media/note-taker.jpg": "/Jasons-react-portfolio/static/media/note-taker.b312e507be78bda1c635.jpg",
     "static/media/eclipse.avif": "/Jasons-react-portfolio/static/media/eclipse.da282654382a9357265f.avif",
     "index.html": "/Jasons-react-portfolio/index.html",
-    "main.e8674b81.css.map": "/Jasons-react-portfolio/static/css/main.e8674b81.css.map",
-    "main.638220f2.js.map": "/Jasons-react-portfolio/static/js/main.638220f2.js.map",
+    "main.cabeb043.css.map": "/Jasons-react-portfolio/static/css/main.cabeb043.css.map",
+    "main.466eb52e.js.map": "/Jasons-react-portfolio/static/js/main.466eb52e.js.map",
     "787.4553c5dd.chunk.js.map": "/Jasons-react-portfolio/static/js/787.4553c5dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8674b81.css",
-    "static/js/main.638220f2.js"
+    "static/css/main.cabeb043.css",
+    "static/js/main.466eb52e.js"
   ]
 }
